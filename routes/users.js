@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('This is First Server NodeJS in Google Cloud Platform');
+  res.send('This is First Server NodeJS in Render Platform');
 });
 
 module.exports = router;
